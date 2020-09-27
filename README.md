@@ -1,5 +1,7 @@
 ### Welcome to my island on GitHub
 
+<a href="https://stackexchange.com/users/1510208/md2perpe"><img src="https://stackexchange.com/users/flair/1510208.png" width="208" height="58" alt="profile for md2perpe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for md2perpe on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 <!--
 **md2perpe/md2perpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
